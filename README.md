@@ -1,13 +1,13 @@
 <h1 align="center">Shaun Damon</h1>
 
 <p align="center">
-  Hey, I just love coding and building impactful solutions. Everything else is a bonus. 🚀
+  Hello World, I just love coding and building impactful solutions. Everything else is a bonus. 🚀
 </p>
 
 
 <p align="center">
   <b>Languages & Tools:</b><br>
-  Python · Django · JavaScript · TypeScript · React · Node.js · Relational Databases · Containerization(Docker, K8's) · Cloud(AWS, Azure, Alibaba Cloud & GCP) 
+  Python · Django · JavaScript · TypeScript · React · Node.js · Relational Databases · Containerization(Docker, K8's) · Cloud(GCP, Alibaba Cloud, & Azure) 
 </p>
 
 <br>
